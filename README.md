@@ -1,3 +1,19 @@
+# Here the blogging website -- Ami-blogs
+
+#HOME PAGE
+![](photos/homepage.jpg)
+
+#ADD BLOG
+![](photos/addblog.jpg)
+
+#UPLOAD PHOTOS
+![](photos/uploadphoto.jpg)
+
+#CONTACT US
+![](photos/contactus.jpg)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
