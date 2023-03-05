@@ -1,16 +1,16 @@
 # Here the blogging website -- Ami-blogs
 
 #HOME PAGE
-![](photos/homepage.jpg)
+#![](photos/homepage.jpg)
 
 #ADD BLOG
-![](photos/addblog.jpg)
+#![](photos/addblog.jpg)
 
 #UPLOAD PHOTOS
-![](photos/uploadphoto.jpg)
+#![](photos/uploadphoto.jpg)
 
 #CONTACT US
-![](photos/contactus.jpg)
+#![](photos/contactus.jpg)
 
 
 
